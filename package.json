@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "heroku-test-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Benmissi-A/heroku-test-api.git",
+  "author": "Benmissi-A <aminebenmissi@hotmail.fr>",
+  "license": "MIT",
+
+  "sripts":{
+    "start" : "node index.js"},
+  "engine": {
+    "node":"15.8.0"
+  }
+}
