@@ -9,7 +9,7 @@
   "author": "Benmissi-A <aminebenmissi@hotmail.fr>",
   "license": "MIT",
 
-  "sripts":{
+  "scripts":{
     "start" : "node index.js"},
   "engine": {
     "node":"15.8.0"
